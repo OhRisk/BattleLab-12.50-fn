@@ -1,0 +1,7 @@
+{
+  "gameHost": "127.0.0.1",
+  "gamePort": 7777,
+  "battleLabAutoStart": true,
+  "hostStartTimeoutSec": 300,
+  "hostVisible": false
+}

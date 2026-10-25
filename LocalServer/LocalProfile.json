@@ -1,0 +1,9 @@
+{
+  "displayName": "OhRisk",
+  "accountId": "battlelablocal0000000000000000001",
+  "httpPort": 3551,
+  "matchmakerPort": 3552,
+  "gameServer": { "address": "127.0.0.1", "port": 7777 },
+  "playlist": "Playlist_BattleLab",
+  "seasonNumber": 12
+}

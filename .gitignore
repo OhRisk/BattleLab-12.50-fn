@@ -1,0 +1,38 @@
+# Epic's game: never part of this repository (players use their own 12.50 install)
+/Fortnite-12.50-BattleLab/
+/Fortnite-12.50-Source/
+ObjectsDump.txt
+reboot.log
+
+# Keys and data extracted from the game's files
+/0x*
+/Tools/aes_main_key.txt
+/Tools/cache/
+/Tools/config/
+/Tools/extract/
+/Tools/json/
+/Tools/strings_pass*.txt
+/Tools/robocopy_workingcopy.log
+/Tools/__pycache__/
+
+# Build output
+/Native/bin/
+/Native/obj/
+/Tools/*.exe
+/Tools/*.dll
+/Tools/*.obj
+/Native/ThirdParty/Reboot-source.zip
+/Native/ThirdParty/Project-Reboot-3.0-master/x64/
+/Native/ThirdParty/Project-Reboot-3.0-master/Project Reboot 3.0/x64/
+.vs/
+*.user
+/Patcher/dist/
+
+# Local, per-player state
+/GamePath.txt
+/Logs/
+/LocalServer/logs/
+/LocalServer/data/profiles/
+/LocalServer/data/cloudstorage/
+*.flag
+/.claude/
